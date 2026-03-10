@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Eatyy - Sleepyy - Codyyyy</p>
+<p align="left">Eat - Sleep - Code</p>
 
 ###
 
