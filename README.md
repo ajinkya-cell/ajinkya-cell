@@ -5,7 +5,7 @@
 <h1 align="center">Ajinkya Dharkar</h1>
 
 <p align="center">
-  <i>Eat • Sleep • Code</i>
+  <i>I am 22 looking for a job as Fullstack Engineer </i>
 </p>
 
 ---
@@ -21,8 +21,8 @@
 ## 🚀 Hire Me
 
 <div align="center">
-  <a href="https://ajinkya-cell.vercel.app/"><img width="700" height="700" alt="cartoon" src="https://github.com/user-attachments/assets/1835f866-762b-4eb1-a59a-eaeb17bef29b" />
-
+  <a href="YOUR_PORTFOLIO_LINK_HERE">
+    <img src="YOUR_HIRE_ME_IMAGE_HERE" width="300" alt="Hire Me"/>
   </a>
 </div>
 
@@ -71,4 +71,3 @@
 </div>
 
 ---
-
