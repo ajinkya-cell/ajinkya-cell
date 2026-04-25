@@ -1,8 +1,6 @@
-<div align="center">
-  <img height="200" src="YOUR_BANNER_IMAGE_HERE" />
-</div>
 
-<h1 align="center">Ajinkya Dharkar</h1>
+
+<h1 align="center"> > Ajinkya Dharkar</h1>
 
 <p align="center">
   <i>I am 22 looking for a job as Fullstack Engineer </i>
@@ -21,8 +19,8 @@
 ## 🚀 Hire Me
 
 <div align="center">
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
-    <img src="YOUR_HIRE_ME_IMAGE_HERE" width="300" alt="Hire Me"/>
+  <a href="https://ajinkya-cell.vercel.app/">
+    Portfolio
   </a>
 </div>
 
@@ -66,7 +64,7 @@
   </a>
 
   <a href="https://www.chess.com/member/ajiiinkya">
-    <img src="https://img.icons8.com/ios-filled/50/000000/chessboard.png" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/000001/chessboard.png" width="40"/>
   </a>
 </div>
 
