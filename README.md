@@ -1,71 +1,29 @@
-
-
-<h1 align="center"> > Ajinkya Dharkar</h1>
+<picture>
+  <!-- You can insert your image here -->
+  <source media="(prefers-color-scheme: dark)" srcset="">
+  <img alt="" src="" width="100%">
+</picture>
 
 <p align="center">
-  <i>I am 22 looking for a job as Fullstack Engineer </i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="">
+    <img alt="" src="">
+  </picture>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+<p align="center">
+  <b>adgrid‑ui</b><br>
+  dark-first · animated · component library
+</p>
 
-- I code  
-- I play chess ♟️  
-- I go to the gym  
+<p align="center">
+  building. breaking. refining.
+</p>
 
----
-
-## 🚀 Hire Me
-
-<div align="center">
-  <a href="https://ajinkya-cell.vercel.app/">
-    Portfolio
-  </a>
-</div>
+<br>
 
 ---
 
-## ⚒️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ajinkya-dharkar-a844b1258/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52"/>
-  </a>
-
-  <a href="https://x.com/ajinkyacell">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52"/>
-  </a>
-
-  <a href="https://www.instagram.com/ajinkya_dharkar/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/>
-  </a>
-
-  <a href="https://www.chess.com/member/ajiiinkya">
-    <img src="https://img.icons8.com/ios-filled/50/000001/chessboard.png" width="40"/>
-  </a>
-</div>
-
----
+**ajinkya** · [site](https://ajinkya.org) · [github](https://github.com/ajinkya-cell) · [x](https://x.com/ajinkyacell) · [linkedin](https://linkedin.com/in/ajinkya-dharkar-a844b1258) · [chess](https://chess.com/member/ajiiinkya) · [mood‑metrics](https://mood-metrics-gilt.vercel.app/)
