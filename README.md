@@ -13,13 +13,10 @@
 
 ---
 
-<p align="center">
-  <b>adgrid‑ui</b><br>
-  dark-first · animated · component library
-</p>
+
 
 <p align="center">
-  building. breaking. refining.
+ I build stuff
 </p>
 
 <br>
